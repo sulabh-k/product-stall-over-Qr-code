@@ -1,0 +1,7 @@
+{
+  "name": "sk",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
